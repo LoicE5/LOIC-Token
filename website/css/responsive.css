@@ -1,0 +1,73 @@
+@media(max-width: 1000px){
+    #content-1>.content-wrapper {
+        flex-flow: column wrap;
+        padding: 15px;
+    }
+    #content-1>.content-wrapper * {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        width: auto;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    br {
+        margin: initial !important;
+    }
+    #coin-video {
+        max-width: 50%;
+    }
+
+    #content-2 .content-wrapper {
+        flex-flow: column nowrap;
+    }
+    #content-2 .content-wrapper>* {
+        margin-left: auto;
+        margin-right: auto;
+        min-width: 300px;
+    }
+    #content-2 .content-wrapper>aside {
+        padding-bottom: 0px;
+    }
+    #content-2 .content-wrapper>article {
+        padding-top: 0px;
+    }
+
+}
+
+@media(max-width: 900px){
+    #starfield h1 {
+        font-size: 3rem;
+    }
+}
+
+@media(max-width: 650px){
+    #starfield h1 {
+        font-size: 2rem;
+    }
+
+    footer .content-wrapper {
+        flex-flow: column wrap;
+    }
+    footer .content-wrapper>* {
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 15px;
+        margin-bottom: 15px;
+    }
+
+    .source-code {
+        font-size: 0.85rem;
+    }
+}
+
+@media(max-width: 450px){
+    .loic-logo {
+        width: 150px;
+    }
+
+    #starfield h1 {
+        font-size: 1.7rem;
+    }
+}
