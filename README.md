@@ -54,5 +54,7 @@ I made the logo using Canva.
 
 ### **Something else**
 
+<div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1200px-Ethereum_logo_2014.svg.png" width="10" height="auto" style="width:10px;height:auto;margin-right:5px;">
 <i>0x131BBDe34b15f2D47326F2e74c851d5996a5136F</i>
+</div>
