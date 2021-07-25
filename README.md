@@ -1,6 +1,6 @@
 # ERC-20 LOIC Token
 
-All the information about this token can be found on **[its official website](https://loic.finance/)**.
+All the information about this token can be found on **[its official website](https://loice5.github.io/token/)**.
 
 To contact me, you can use [GitHub](https://github.com/LoicE5), [LinkedIn](https://www.linkedin.com/in/loic-etienne/) or [loic.etienne@mail.com](mailto:loic.etienne@mail.com).
 
@@ -40,7 +40,7 @@ I made this model using [Arthur](https://sketchfab.com/Arthur_mf)'s work on *Ske
 
 To get validated by EtherScan and display an icon on MetaMask and other platforms, I have to create a website for my token.
 
-The website [loic.finance](https://loic.finance/) is created using HTML and CSS.
+The website is created using HTML and CSS.
 
 The 3D token that you can see above is integrated using HEVC encoding (for Safari, supports transparency) and VP9 (for Chromium & Firefox, also supports transparency).
 
