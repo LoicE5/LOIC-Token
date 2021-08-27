@@ -1,8 +1,8 @@
 # ERC-20 LOIC Token
 
-All the information about this token can be found on **[its official website](https://loice5.github.io/token/)**.
+All the information about this token can be found on **[its official website](https://loic.finance/)**.
 
-To contact me, you can use [GitHub](https://github.com/LoicE5), [LinkedIn](https://www.linkedin.com/in/loic-etienne/) or [loic.etienne@mail.com](mailto:loic.etienne@mail.com).
+To contact me, you can use [GitHub](https://github.com/LoicE5), [LinkedIn](https://www.linkedin.com/in/loic-etienne/) or [loic@loic.finance](mailto:loic@loic.finance).
 
 <hr>
 
