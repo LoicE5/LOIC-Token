@@ -1,6 +1,6 @@
 # ERC-20 LOIC Token
 
-All the information about this token can be found on **[its official website](https://loic.finance/)**.
+All the information about this token can be found on **[its official website](https://loice5.github.io/LOIC-Token/)**.
 
 To contact me, you can use [GitHub](https://github.com/LoicE5), [LinkedIn](https://www.linkedin.com/in/loic-etienne/) or [loic-etienne@naver.com](mailto:loic-etienne@naver.com).
 
@@ -51,10 +51,3 @@ Everything else on this website have been created by me. Feel free to fork it to
 I made the logo using Canva.
 
 ![](https://user-images.githubusercontent.com/59501884/125498507-c8c2aefd-b6e3-45d9-b3a8-83ac165ad3f4.png)
-
-### **Something else**
-
-<div>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ethereum_logo_2014.svg/1200px-Ethereum_logo_2014.svg.png" width="10" height="auto" style="width:10px;height:auto;margin-right:5px;">
-<i>0x131BBDe34b15f2D47326F2e74c851d5996a5136F</i>
-</div>
