@@ -16,7 +16,7 @@ The 0.5.0 pragma solidity version is involved for this contract.
 <br>
 The token file is at the root of the repo, and is named `token.sol`. It is divisible up to 10 decimals.
 
-I made this token following [this tutorial](https://www.youtube.com/watch?v=GDq7r1n9zIU)'s instructions, frome the [Code With Joe YouTube Channel](https://www.youtube.com/channel/UCdgU4pljNproO0RQVbT5QKg).
+I made this token following [this tutorial](https://www.youtube.com/watch?v=GDq7r1n9zIU)'s instructions, from the [Code With Joe YouTube Channel](https://www.youtube.com/channel/UCdgU4pljNproO0RQVbT5QKg).
 
 It is currently not valuated nor exchangeable. I'll keep this document updated if this changes if the future.
 
